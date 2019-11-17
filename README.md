@@ -3,9 +3,9 @@ Converting a color image into gray image
 # Qestion
 I have a **colored image**, and I want to convet into **gray image**. What can I do for it?
 ## original figure 
-![flower.bmp](file:///J:/MyPC/CodingTest/ColoursConvertIntoGrayImage/flower.bmp)
+![flower.bmp](https://github.com/MasterBaymax/ColoursConvertIntoGrayImage/blob/master/flower.bmp)
 ## result's figure
-![gray.bmp](file:///J:/MyPC/CodingTest/ColoursConvertIntoGrayImage/gray.bmp)
+![gray.bmp](https://github.com/MasterBaymax/ColoursConvertIntoGrayImage/blob/master/gray.bmp)
 # Method
 1. copy the header information into another image;
 2. change the RGB color into same value
